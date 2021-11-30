@@ -13,7 +13,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Monti",
+  "author": "Shreyash",
   "license": "ISC",
   "description": ""
 }
